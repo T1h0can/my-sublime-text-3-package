@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CComplete",
+		"ChineseLocalizations",
+		"Colorsublime",
+		"InputHelper",
+		"MarkdownHighlighting",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeAStyleFormatter",
+		"Terminal",
+		"Theme - Brogrammer",
+		"Theme - Nexus",
+		"Theme - Spacegray",
+		"WakaTime",
+		"YcmdCompletion"
+	]
+}
